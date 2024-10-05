@@ -2,7 +2,7 @@
 int main(){
     printf("Hello world!");
     for (int i =0; i<5;i++){
-        printf(%d,"i");
+        printf("%d",i);
 
     }
     return 0;
